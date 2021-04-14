@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/noodle/%20/static/js/main.e4e689e6.chunk.js",
-    "main.js.map": "/noodle/%20/static/js/main.e4e689e6.chunk.js.map",
-    "runtime-main.js": "/noodle/%20/static/js/runtime-main.e9bb9e4a.js",
-    "runtime-main.js.map": "/noodle/%20/static/js/runtime-main.e9bb9e4a.js.map",
-    "static/js/2.9011d692.chunk.js": "/noodle/%20/static/js/2.9011d692.chunk.js",
-    "static/js/2.9011d692.chunk.js.map": "/noodle/%20/static/js/2.9011d692.chunk.js.map",
-    "static/js/3.c0083a45.chunk.js": "/noodle/%20/static/js/3.c0083a45.chunk.js",
-    "static/js/3.c0083a45.chunk.js.map": "/noodle/%20/static/js/3.c0083a45.chunk.js.map",
-    "index.html": "/noodle/%20/index.html",
-    "static/js/2.9011d692.chunk.js.LICENSE.txt": "/noodle/%20/static/js/2.9011d692.chunk.js.LICENSE.txt",
-    "static/media/chicken-lo-mein.9440a6bb.jpg": "/noodle/%20/static/media/chicken-lo-mein.9440a6bb.jpg",
-    "static/media/japanese-pan.0c7a00bf.jpg": "/noodle/%20/static/media/japanese-pan.0c7a00bf.jpg",
-    "static/media/korean-beef.581bc321.jpg": "/noodle/%20/static/media/korean-beef.581bc321.jpg",
-    "static/media/noodles-3.b6052889.jpg": "/noodle/%20/static/media/noodles-3.b6052889.jpg",
-    "static/media/pad-thai.76db15bd.jpg": "/noodle/%20/static/media/pad-thai.76db15bd.jpg",
-    "static/media/penne-rosa.79a28e49.jpg": "/noodle/%20/static/media/penne-rosa.79a28e49.jpg",
-    "static/media/shrimp-scampi.79e66a3e.jpg": "/noodle/%20/static/media/shrimp-scampi.79e66a3e.jpg",
-    "static/media/stake-noodles.d81e6dc3.jpg": "/noodle/%20/static/media/stake-noodles.d81e6dc3.jpg"
+    "main.js": "/noodle/static/js/main.6d974e80.chunk.js",
+    "main.js.map": "/noodle/static/js/main.6d974e80.chunk.js.map",
+    "runtime-main.js": "/noodle/static/js/runtime-main.02c49f26.js",
+    "runtime-main.js.map": "/noodle/static/js/runtime-main.02c49f26.js.map",
+    "static/js/2.1e4dedba.chunk.js": "/noodle/static/js/2.1e4dedba.chunk.js",
+    "static/js/2.1e4dedba.chunk.js.map": "/noodle/static/js/2.1e4dedba.chunk.js.map",
+    "static/js/3.c0083a45.chunk.js": "/noodle/static/js/3.c0083a45.chunk.js",
+    "static/js/3.c0083a45.chunk.js.map": "/noodle/static/js/3.c0083a45.chunk.js.map",
+    "index.html": "/noodle/index.html",
+    "static/js/2.1e4dedba.chunk.js.LICENSE.txt": "/noodle/static/js/2.1e4dedba.chunk.js.LICENSE.txt",
+    "static/media/chicken-lo-mein.9440a6bb.jpg": "/noodle/static/media/chicken-lo-mein.9440a6bb.jpg",
+    "static/media/japanese-pan.0c7a00bf.jpg": "/noodle/static/media/japanese-pan.0c7a00bf.jpg",
+    "static/media/korean-beef.581bc321.jpg": "/noodle/static/media/korean-beef.581bc321.jpg",
+    "static/media/noodles-3.b6052889.jpg": "/noodle/static/media/noodles-3.b6052889.jpg",
+    "static/media/pad-thai.76db15bd.jpg": "/noodle/static/media/pad-thai.76db15bd.jpg",
+    "static/media/penne-rosa.79a28e49.jpg": "/noodle/static/media/penne-rosa.79a28e49.jpg",
+    "static/media/shrimp-scampi.79e66a3e.jpg": "/noodle/static/media/shrimp-scampi.79e66a3e.jpg",
+    "static/media/stake-noodles.d81e6dc3.jpg": "/noodle/static/media/stake-noodles.d81e6dc3.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9bb9e4a.js",
-    "static/js/2.9011d692.chunk.js",
-    "static/js/main.e4e689e6.chunk.js"
+    "static/js/runtime-main.02c49f26.js",
+    "static/js/2.1e4dedba.chunk.js",
+    "static/js/main.6d974e80.chunk.js"
   ]
 }
